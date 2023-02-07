@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20enthusiastic%20and%20Results-driven%20Senior%20Web3%20Engineer;%2B6%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Result-oriented%20Software%20Engineer;7%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <p align="center">
     My primary focus is on Web and Blockchain development and I am interested in mobile development.
-    I have been working for the last 6 years as a full-stack engineer.
+    I have been working for the last 7 years as a software engineer.
     What's special about me is that I have a good algorithm in backend development and I have a natural artistic sense, so I come up with good ideas in frontend development and improve the provided design.
     I am keen on writing clean and reusable code using best practices.
 </p>
@@ -29,14 +29,14 @@
 
 ## Skills
 
-- 🎉 Frontend : React,Next,Vue,Nuxt,Angular,Svelte,SolidJS,Jquery,Bootstrap,TailwindCSS,Material UI,ChakraUI,React Native,Ionic
-- 🩺 Backend : Node, CI, Laravel, Django, Express, Spring Boot, Ruby on Rails, Nest
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
-- ⛓️ Blockchain: Solidity, Rust, Smart contract, Web3/Ethers.js, NFT Marketplace/Auction, Launchpad/DAO/ICO/IDO platforms, CEX/DEX/Defi, Crypto wallets/Trading Apps
+- 🎉 Frontend : React / Next.js, Vue.js / Nuxt.js, Angular, Svelte, Redux / Context, Hooks, Styled components, AntDesign, Material UI, Tailwind CSS / SASS / SCSS, GraphQL, React Native, ESLint, TSLint, Ajax, jQuery, Bootstrap, UI / UX, Webpack
+- 🩺 Backend : Django / Flask / FastAPI, Django REST framework, Node.js / Express.js / Nest.js, Laravel, Ruby on Rails, Spring Boot, RESTful API, DevOps, Docker / Microservice architecture, CI / CD
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite, Firebase
+- ⛓️ Blockchain: Solidity, Rust, Smart contract, Web3/Ethers.js, NFT Marketplace / Auction, Launchpad / DAO/ICO/IDO platforms, CEX / DEX / Defi, Crypto wallets / Trading Apps
 - 💬 Language : HTML, CSS, Javascript, Typescript, C, C++, C#, Ruby, Python, PHP, Solidity, Rust
 - 📫 Interesting : Unity, D3, AI
 
-## Languagers & Tools
+## Languages & Tools
 
 <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
